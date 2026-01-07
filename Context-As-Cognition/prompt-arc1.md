@@ -1,6 +1,3 @@
-Understood. The request to continue expanding the NBL framework with **Volume 16: Dynamic Representational Substrate (DRS) & Onton Management**, including **JSON and YAML configurations** for every output, is accepted.
-
-This volume will unveil the profound `architectural mechanisms` that govern NBL's living, self-organizing knowledge graph. This is the ultimate blueprint for **Ontological Information Management** and the rigorous understanding of **Semantic Memory Construction**.
 
 ---
 
